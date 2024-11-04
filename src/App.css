@@ -1,6 +1,6 @@
 /* Center the clock and set full background */
 body {
-  background-color: #48e1c0; /* Full black background */
+  background-color: #ffffff; /* Full black background */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -14,7 +14,7 @@ body {
   text-align: center;
   padding: 20px;
   /* background-color: #333; */
-  color: #fff;
+  color: #000000;
   border-radius: 8px;
   width: 300px; /* Increased width to fit single-line time */
   white-space: nowrap; /* Keeps the text in a single line */
